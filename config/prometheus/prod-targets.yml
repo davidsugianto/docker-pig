@@ -1,0 +1,23 @@
+# - targets: ['172.17.0.7:9100']
+#   labels:
+#     name: 'Server 1 - PROD'
+ 
+# - targets: ['172.17.0.8:9100']
+#   labels:
+#     name: 'Server 2 - PROD'
+ 
+# - targets: ['172.17.0.9:9100']
+#   labels:
+#     name: 'Server 3 - PROD'
+ 
+# - targets: ['172.17.0.10:9100']
+#   labels:
+#     name: 'Server 4 - PROD'
+     
+# - targets: ['172.17.0.11:9100']
+#   labels:
+#     name: 'Server 5 - PROD'
+     
+# - targets: ['172.17.0.12:9100']
+#   labels:
+#     name: 'Server 6 - PROD'
